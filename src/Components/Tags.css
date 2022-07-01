@@ -1,0 +1,90 @@
+.tags a {
+  text-decoration: none;
+}
+.tags .headings:hover {
+  text-shadow: 2px 3px 10px var(--SkyBlue);
+  transform: scale(1.5);
+  transition: 0.6s;
+}
+
+.tags .headings {
+  font-family: "Permanent Marker", cursive;
+  color: white !important;
+  top: 40vh;
+  font-size: 40px;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  margin-top: 17vh;
+  padding-bottom: 20PX;
+  transition: 0.6s;
+}
+
+ .tags .wrapper{
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+}
+ .tags .card{
+     width: clamp(21rem,20rem,30rem);
+     min-height: 270px;
+     background: #ffffff;
+     padding: 30px;
+     box-sizing: border-box;
+     color: #696969;
+     margin:20px;
+     border: 5px solid;
+     border-radius: 25px;
+     box-shadow: 0px 2px 18px -4px rgb(64, 64, 64);
+     transition: transform .5s;
+}
+.tags .card:hover {
+  background-color: aliceblue;
+  border: 5px solid #66f0f1;
+  transform: scale(0.9); 
+}
+ .tags .card___title{
+     margin-top: 0;
+     font-size: 20px;
+     font-weight: 600;
+     letter-spacing: 1.2px;
+     justify-content: center;
+}
+ .tags .card__content{
+    padding: 1em 0em;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tags .card__text{
+    background-color: #007bff;
+    color: #fff;
+    padding: .2em .5em;
+    border-radius: 4px;
+    margin-left: .5em;
+    transition: all .1s;
+    cursor: pointer;
+    margin-top: .5em;
+}
+.tags .card-btn{
+     all: unset;
+     display: block;
+     margin-left: auto;
+     border: 2px solid #a6a6a6;
+     padding: 10px 15px;
+     border-radius: 25px;
+     font-size: 15px;
+     font-weight: 600;
+     transition: all 0.5s;
+     cursor: pointer;
+     letter-spacing: 1.2px;
+     margin-top: 35px;
+    color: #2a9fa5;
+}
+ .tags .card-btn:hover{
+    color:#02b875;
+    background: #FFF;
+}
+
