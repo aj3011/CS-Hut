@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CS-Hut/static/css/main.070f5b1b.chunk.css",
+    "main.js": "/CS-Hut/static/js/main.2c1560aa.chunk.js",
+    "main.js.map": "/CS-Hut/static/js/main.2c1560aa.chunk.js.map",
+    "runtime-main.js": "/CS-Hut/static/js/runtime-main.c96bf040.js",
+    "runtime-main.js.map": "/CS-Hut/static/js/runtime-main.c96bf040.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/CS-Hut/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.6dc1c834.chunk.js": "/CS-Hut/static/js/2.6dc1c834.chunk.js",
+    "static/js/2.6dc1c834.chunk.js.map": "/CS-Hut/static/js/2.6dc1c834.chunk.js.map",
+    "index.html": "/CS-Hut/index.html",
+    "precache-manifest.ad3034137ee1dc79baa7d1f3849906e9.js": "/CS-Hut/precache-manifest.ad3034137ee1dc79baa7d1f3849906e9.js",
+    "service-worker.js": "/CS-Hut/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/CS-Hut/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.070f5b1b.chunk.css.map": "/CS-Hut/static/css/main.070f5b1b.chunk.css.map",
+    "static/js/2.6dc1c834.chunk.js.LICENSE.txt": "/CS-Hut/static/js/2.6dc1c834.chunk.js.LICENSE.txt",
+    "static/media/bannerback.mp4": "/CS-Hut/static/media/bannerback.9ae0778e.mp4",
+    "static/media/logo.png": "/CS-Hut/static/media/logo.38a79f67.png",
+    "static/media/notfound2.svg": "/CS-Hut/static/media/notfound2.465ffb24.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96bf040.js",
+    "static/css/2.63f31f8d.chunk.css",
+    "static/js/2.6dc1c834.chunk.js",
+    "static/css/main.070f5b1b.chunk.css",
+    "static/js/main.2c1560aa.chunk.js"
+  ]
+}
